@@ -1,0 +1,1 @@
+gcc v2.c -o v2 -lm
